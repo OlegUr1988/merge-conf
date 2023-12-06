@@ -1,4 +1,4 @@
-# Test comment/ bad / good BadMerge 
+break me
 import pandas as pd 
 #from gekko import GEKKO
 from scipy.optimize import curve_fit 
