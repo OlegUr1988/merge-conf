@@ -1,0 +1,7 @@
+# Test comment/ bad / good BadMerge
+from scipy.interpolate import lagrange
+import matplotlib.pyplot as plt
+import numpy as np
+import pandas as pd 
+#from gekko import GEKKO
+from scipy.optimize import curve_fit 
